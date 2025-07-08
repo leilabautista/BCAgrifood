@@ -28,13 +28,13 @@ The BC AF Trade Tool is an agriculture and food-specific tool to view trade valu
 
    b. Load **_Commodity_Classification.csv_** using the M query, **_Commodity Classification.txt_**
 
-   c. Load **_ODPF_6_CtyDesc.TXT_** using the M query, **_TradeREF_Country.txt_**
+   c. Load **_ODPF_6_CtyDesc.txt_** using the M query, **_TradeREF_Country.txt_**
 
-   d. Load **_ODPF_7_StateDesc.TXT_** using the M query, **_TradeREF_State.txt_**
+   d. Load **_ODPF_7_StateDesc.txt_** using the M query, **_TradeREF_State.txt_**
 
-   e. Load **_ODPF_8_ProvDesc.TXT_** using the M query, **_TradeREF_Province.txt_**
+   e. Load **_ODPF_8_ProvDesc.txt_** using the M query, **_TradeREF_Province.txt_**
 
-   f. Load **_ODPF_9_UOMDesc.TXT_**
+   f. Load **_ODPF_9_UOMDesc.txt_**
 
    g. Create relationships between reference tables from stebs b to f and _TradeFULL.csv_
 
