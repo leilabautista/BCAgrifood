@@ -38,7 +38,7 @@ The BC AF Trade Tool is an agriculture and food-specific tool to view trade valu
 
    g. Create relationships between reference tables from stebs b to f and _TradeFULL.csv_
 
-4. Run BC_AF_Trade_Tool_Update.Rmd to
+4. Run _**BC_AF_Trade_Tool_Update.Rmd**_ to
 
    a. Load **_[specify year]_** export and import value data
 
